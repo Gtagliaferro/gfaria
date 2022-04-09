@@ -1,8 +1,8 @@
 ---
-title: ola-mundo
-author: 'Giovanni Faria'
+title: Mundança-minha
+author: 'Giovanni Tagliaferro'
 date: '2022-04-05'
-slug: ola-mundo
+slug: Mudança-minha
 categories: []
 tags: []
 ---
