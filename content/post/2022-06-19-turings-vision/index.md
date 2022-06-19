@@ -1,12 +1,10 @@
 ---
-
----
-title: turings-vision
+title: Turing's vision
 author: 'Giovanni Faria'
 date: '2022-06-19'
-slug: ola-mundo
+slug: Turing's vision
 categories: 
-
+---
 
 
 
