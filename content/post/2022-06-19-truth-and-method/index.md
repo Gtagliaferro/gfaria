@@ -6,6 +6,10 @@ slug: Interpretation as the means for human experience
 categories: 
 ---
 
+![alt](\2022-06-19-truth-and-method\gadamer.jpg)
+
+​	
+
 # The problem of the true meaning of a text
 
 What the Bible meant? What a poem tried to convey? What actions did a statute constrain? Humans are constantly making these questions of interpretation and trying to find a true meaning of a text when navigating reality, but we never managed to find a criteria that would lead us to the real and definite meaning of a text. As an attempt to solve this problem, the field of hermeneutics was born, firstly, as a way to interpret and discover the meaning of the words of God, as the process of *exegesis* conducted by the theologians. Further, in the eighteenth century,the question became a matter of theoretical study, being developed by characters like Friedrich Schleiermacher, Wilhelm Dilthey and, more recently, by Martin Heidegger and Hans-Georg Gadamer. The first two thought that hermeneutics was for the humanities what mathematics was for the natural sciences, and the last two considered it to be the key of human experience. 
