@@ -18,7 +18,13 @@ Due to that intellectual environment, Schleiermacher and Dilthey focused on maki
 
 For Schleiermacher, the ideal system of interpretation would access the thoughts of the author when he composed the text. The is composed of two elements, the grammatical  and the psychological. The grammatical interpretation is the consideration of the language of the text, its outer expression and the psychological is the consideration of the thoughts of the author and his intentions. If an interpretation valued correctly both elements then it would be successfull. 
 
-For Dilthey
+For Dilthey history lays an important part in the interpretation. All understanding is dependent of a series of historical world views.	
+
+"Dilthey argues that the study of history can be reliable only if it is possible to raise the understanding of what is singular to the level of universal validity. Here he also comes to the realization that:
+
+> the inner experience through which I obtain reflexive awareness of my own condition can never by itself bring me to a consciousness of my own individuality. I experience the latter only through a comparison of myself with others. "
+
+
 
 ## A problem of reality 
 
@@ -59,13 +65,9 @@ For him, both Schleiermacher and Dilthey didn't grasp the nature of hermeneutics
 
 
 
-
-
 ### Basic elements 
 
 Trying to comprehend the mode of operation of the humanities, Gadamer inquires about four concepts, **Bildung (culture), *sensus communis*, judgement and taste**.
-
-
 
 ### Bildung 
 
