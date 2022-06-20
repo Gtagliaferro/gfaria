@@ -2,15 +2,15 @@
 title: Interpretation as the means for human experience 
 author: 'Giovanni Faria'
 date: '2022-06-19'
-slug: Interpretation as the means for human experience 
-categories: 
 ---
 
-![alt](\2022-06-19-truth-and-method\gadamer.jpg)
-
-​	
-
 # The problem of the true meaning of a text
+
+
+
+![alt](GitHub\gfaria\content\post\2022-06-19-truth-and-method\gadamer.jpg)
+
+
 
 What the Bible meant? What a poem tried to convey? What actions did a statute constrain? Humans are constantly making these questions of interpretation and trying to find a true meaning of a text when navigating reality, but we never managed to find a criteria that would lead us to the real and definite meaning of a text. As an attempt to solve this problem, the field of hermeneutics was born, firstly, as a way to interpret and discover the meaning of the words of God, as the process of *exegesis* conducted by the theologians. Further, in the eighteenth century,the question became a matter of theoretical study, being developed by characters like Friedrich Schleiermacher, Wilhelm Dilthey and, more recently, by Martin Heidegger and Hans-Georg Gadamer. The first two thought that hermeneutics was for the humanities what mathematics was for the natural sciences, and the last two considered it to be the key of human experience. 
 
@@ -48,6 +48,8 @@ The concept of prejudice is essential for the comprehension of the phenomenon of
 
 
 
+## "Truth and method" book summary
+
 
 
 ## The Humanities 
@@ -61,7 +63,7 @@ Why physics can state propositions that are solid as rock and meteorology cannot
 
 For him, both Schleiermacher and Dilthey didn't grasp the nature of hermeneutics. They understood hermeneutics to be simply a correct method of interpretation that would provide the truth of the text. Besides that they focus too much on the intention of the author to provide the meaning of the text. 
 
-Hermeneutics is more than [What is hermeneutics for Gadamer]
+
 
 
 
@@ -73,7 +75,7 @@ Trying to comprehend the mode of operation of the humanities, Gadamer inquires a
 
 ### Bildung 
 
-Bildung is a process of cultivation and formation by the means of culture.
+Bildung refers to the German tradition of self-cultivation, wherein philosophy and education are linked in a manner that refers to a process of both personal and cultural maturation.
 
 In Hegel's theory, *bildung* is the movement from the particular to the universal, from the natural to the spiritual, from the self to the other. It is to absorb someone else's way of leaving, its culture. To achieve that, he recommended the reading of the classics, whom where so distant and different that would invoke the sentiment of the general, of the other.
 
